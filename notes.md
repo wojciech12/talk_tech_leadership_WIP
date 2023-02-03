@@ -34,7 +34,7 @@ pull ahead or push back on the tech merit, both own the roadmap (yes and what sh
 - Deadline, time commitments (ranges), pre-alpha, alpha, beta...communication about them,
 - Delegate - the best place to be: when you are on holidays everything works good, the team does not grind to halt,
 - Plus: use your 1on1 with your manager, experiment with your team, let me know when you help or just to discuss sth.
-- [Speak up vs Shut Up](https://www.edbatista.com/2021/05/on-speaking-up-and-shutting-up.html) - the higher you are the more important
+- [Speak up vs Shut Up](https://www.edbatista.com/2021/05/on-speaking-up-and-shutting-up.html), pick the battles - the higher you are the more important
 
 ## Reading materials
 
