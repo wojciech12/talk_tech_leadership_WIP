@@ -19,7 +19,7 @@ Each of points is a start for a deeper discussion about the expectations - pick 
 - Ying yang with PM, you both responsible for the product and its vision,
 pull ahead or push back on the tech merit, both own the roadmap (yes and what should I do with other things)
 - Reduce the complexity, interruptions, and uncertainty for your developers (no shielding)
-- Repeat the **WHY** (vision), context of the work and its value.
+- Repeat the **WHY** (vision), context of the work and its value and **WHAT**.
 - Provide the drum beat.
 - Team:
   - Engage and include your teammates (the reserved one as well) in the discussion,
