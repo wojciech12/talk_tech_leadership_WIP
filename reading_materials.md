@@ -11,7 +11,7 @@ Not necessarily in the same order:
     4. Lead Tech
     5. Lead Business
       
-2. Go through all reading/watching materials topics that the TL discuss with new joiner in the first months. Review the 7-30-60-90 and discuss it with WB and your TL. Think about WHY, whether we could do sth better, different...
+2. Go through all reading/watching materials topics that the TL discuss with new joiner in the first months. Review the 7-30-60-90 and discuss it with your TL coach and your TL. Think about WHY, whether we could do sth better, different...
 
 3. Go through chapters  of https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897 
 
@@ -36,6 +36,13 @@ Not necessarily in the same order:
     5. Yes, and… - 
     6. https://www.edbatista.com/2013/11/underdoing-it-and-overdoing-it-assertiveness-over-time.html
     7. https://www.edbatista.com/2012/01/high-performance-communication.html - safe (high perf) environment
-    8. Product
-        1. see [resources](https://docs.google.com/document/d/1g0JqqgSRPARKyPbOXuElqDN56rseS1L3LTJm53Psc34/edit#)
+    8. Product Development Process
+        1. See the reading materials on ... *TODO add link to reading resources*
         2. discuss WHY’s behind the steps in our software delivery process
+
+5. One-on-ones (types, goals, spending time…, ) - see *TODO add link to reading resources* for the pdf that provides a good summary (← one type is missing).
+
+6. Project mgmt:
+    1. WIP, aging tasks, Kanban - see  [resources](https://docs.google.com/document/d/1g0JqqgSRPARKyPbOXuElqDN56rseS1L3LTJm53Psc34/edit#)
+    2. Estimations, what-if scenarios of delivery, 2 weeks status checks
+    3. Metrics - DORA, etc.
