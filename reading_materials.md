@@ -2,6 +2,8 @@ Proposed topics to cover, the initiative to take first up to new TL under a pers
 
 Remember: strong vs. weak suits (see [excellence](https://www.edbatista.com/2012/01/high-performance-communication.html#excellence))
 
+## Iteration 1
+
 Not necessarily in the same order:
 
 1. We are talking about five aspects ([src](https://github.com/wojciech12/talk_tech_leadership_WIP/blob/master/notes.md)):
@@ -45,4 +47,8 @@ Not necessarily in the same order:
 6. Project mgmt:
     1. WIP, aging tasks, Kanban - see  [resources](https://docs.google.com/document/d/1g0JqqgSRPARKyPbOXuElqDN56rseS1L3LTJm53Psc34/edit#)
     2. Estimations, what-if scenarios of delivery, 2 weeks status checks
-    3. Metrics - DORA, etc.
+    3. Metrics - DORA, etc
+  
+
+    3. Estimations, what-if scenarios of delivery, 2 weeks status checks
+    4. Metrics - DORA, etc.
