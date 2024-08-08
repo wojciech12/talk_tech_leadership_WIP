@@ -76,3 +76,8 @@ Might be useful.
 - https://www.edbatista.com/2017/02/leadership-decision-making-and-emotion-management.html
 - https://www.edbatista.com/2013/12/new-post-at-hbr-happy-workaholics-need-boundaries-not-balance.html
 - Finding work with leverages 5x 10x 100x
+
+## Product Management
+
+- Empowered and Inspired from svpg
+
