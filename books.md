@@ -31,7 +31,7 @@ The **most powerful technique, read with your peer**:
 | 2 | Radical Candor - Kim Scott | People, Team | Improve your communication, do not be afraid to say things that must be said |
 | 3 | The Five Dysfunctions of a Team: A Leadership Fable - Patrick M. Lencioni | People, Team | Shows that building a great team is a step-by-step process with 5 essential elements |
 | 4 | An Elegant Puzzle: Systems of Engineering Management – Will Larson | Team, People, Teach | Opinionated version of the Manager's Path, more on the engineering side |
-| 5 | Evidence-Guided: Creating High Impact Products in the Face of Uncertainty - Itamar Gilad. and/or Marty Cagan's "Empowered"  | Business | To understand how modern products are built. I like Itamar's book, because it is so opinionated and concrete. Marty's Empowered is more inspiration, showing a general direction. |
+| 5 | Evidence-Guided: Creating High Impact Products in the Face of Uncertainty - Itamar Gilad. and/or Marty Cagan's "Empowered"  | Business | To understand how modern products are built. I like Itamar's book, because it is so opinionated and concrete. Marty's Empowered is more inspiration, showing a general direction. It should help working with your Product Manager. |
 | 6 | [Kanban Guide](https://www.prokanban.org/kpg) | Teams | Fundamental project mgmt methodology for consistent delivery |
 | 7 | The Checklist Manifesto: How to Get Things Right - Atul Gawande | Teams, Tech | [why](https://www.linkedin.com/posts/wojciechbarczynski_bookrecommendation-techleadership-shareasyougo-activity-7152592603765518337-7p7m) |
 
