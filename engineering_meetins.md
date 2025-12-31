@@ -9,6 +9,10 @@
 
 ## Product Team
 
+## Standups
+
+TBA
+
 ### Weekly Planning [45 min]
 
 Agenda:
