@@ -36,6 +36,11 @@ Agenda:
 
 Notice: teams should add the demos to the agenda in advance.
 
+- why/what
+- Life Demo, working code
+- Demo on production is the best, staging ok-ish, local meh
+- **Everything is demoable**
+
 ## Reference
 
 - [Slides from my lecture on leading the team](https://github.com/wojciech11/se_projekt_zespolowy/blob/master/01_best_practices/index.pdf)
