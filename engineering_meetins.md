@@ -21,11 +21,11 @@ Agenda:
 - 13:10 - 13:20 - Context/Goal for the next cycle:
   - Any changes to the current goals? (Product Leader)
   - Any new learnings? (Product Leader, team members)
-  - Highlights from demos, interactions with customers, competiton (Product Leader)
+  - Highlights from demos, interactions with customers, competition (Product Leader)
 
 - 13:20 - 13:40 - What we do next week:
   - Go through IN PROGRESS and TODO
-  - Look on the top of the Backlog
+  - Look at the top of the Backlog
   - Do we have enough work? Do we know what we will do?
 
 - 13:40 - 13:45 Closing:
@@ -35,3 +35,7 @@ Agenda:
 ### Weekly Demos
 
 Notice: teams should add the demos to the agenda in advance.
+
+## Reference
+
+- [Slides from my lecture on leading the team](https://github.com/wojciech11/se_projekt_zespolowy/blob/master/01_best_practices/index.pdf)
