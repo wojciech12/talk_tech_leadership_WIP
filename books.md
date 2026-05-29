@@ -45,4 +45,10 @@ the second batch:
 
 ### Manager of managers
 
+#### Strategy
+
+- the Art of Action - `Why` is not enough!
+- the Crux -
+- Technology Strategy Patterns 
+
 TBA
